@@ -1,2 +1,3 @@
-# wolfgang-music-bot
-Discord Music Bot
+# Wolfgang *Discord Music Bot*
+
+This `README.md` is in build up...
